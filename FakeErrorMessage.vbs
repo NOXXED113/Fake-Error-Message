@@ -1,3 +1,3 @@
-x=msgbox("Message",0+64,"Title")
+x=msgbox("ERROR",0+64,"SORRY UN ABLE TO START")
 
-x=msgbox("Enjoy :D",0+64,"A rando title")
+x=msgbox("Try again",0+64,"RESTERT")
